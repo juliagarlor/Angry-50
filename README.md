@@ -24,9 +24,9 @@ git clone https://github.com/juliagarlor/Angry-50.git
 
 3. Now, the game engine is ready and the file containing our project has been downloaded. Everything is in place, so now take the project folder and drag it to the Löve2D icon. When you drop the folder in the icon, a new window should be open with the opening view of the game. Press Enter and enjoy!
 
-![Play1](screenshots/Play1.JPG)
+![Play1](screenshots/Play1.png)
 
-![Play2](screenshots/Play2.JPG)
+![Play2](screenshots/Play2.png)
 
 ## Thanks ❤
 
